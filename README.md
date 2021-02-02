@@ -1,6 +1,6 @@
-<p align="center">
+<div style="text-align:center">
     <src="https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png" />
-</p>
+</div>
 
 # Desafios Imersão FullStack FullCycle
 
