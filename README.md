@@ -67,10 +67,8 @@ git add .
 git commit -m "Codepix: Aula 1"
 git branch -M main
 git remote add origin https://github.com/afpfullcycle/imersao-fullstack-fullcycle.git
-git push -u origin main
-git branch aula1
-git checkout aula1
+git checkout -b aula1
 git add .
-git commit -m "Started docker environment"
+git commit -m "Codepix: Aula 1"
 git push -u origin aula1
 ```
