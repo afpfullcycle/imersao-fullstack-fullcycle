@@ -1,4 +1,4 @@
-#![Imersão-FSFC](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png){align=center}
+![Imersão-FSFC](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png#center)
 
 # Desafios Imersão FullStack FullCycle
 
